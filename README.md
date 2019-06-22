@@ -1,5 +1,13 @@
 # vue-pizza
 
+Playground for testing [vuedraggable](https://github.com/SortableJS/Vue.Draggable).
+In this example you can create pizzas and drag different topping to your pizza aswell as marking a pizza ready for pickup.
+
+![capture.gif]
+
+
+Also includes [Bootstrap](https://bootstrap-vue.js.org/) for the component usage.
+
 ## Project setup
 ```
 yarn install
@@ -10,25 +18,3 @@ yarn install
 yarn run serve
 ```
 
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Run your unit tests
-```
-yarn run test:unit
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
