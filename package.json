@@ -13,7 +13,8 @@
     "bootstrap-vue": "^2.0.0-rc.24",
     "core-js": "^2.6.5",
     "vue": "^2.6.10",
-    "vue-router": "^3.0.3"
+    "vue-router": "^3.0.3",
+    "vuedraggable": "^2.22.0"
   },
   "devDependencies": {
     "@types/jest": "^23.1.4",
